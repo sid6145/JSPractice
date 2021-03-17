@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    color: aqua;
+    background-color: black;
+}
+
+.btn{
+    padding: 20px 30px;
+    font-size: larger;
+    border-radius: 20px;
+    color: aqua;
+    background-color: black;
+    border: 1px solid aqua;
+    transition: 0.3s ease;
+}
+
+.btn:hover{
+    background-color: aqua;
+    color:black;
+    cursor: pointer;
+}
+
+p{
+    font-size: larger;
+}
