@@ -1,3 +1,3 @@
 # JSPractice
 
-Repository for javascript
+Repository for html css and javascript
