@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+h2{
+    color: red;
+}
+
+.btn{
+    border-radius: 100%;
+    background-color: red;
+    padding: 100px 100px;
+    font-size: large;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: yellow;
+
+}
+
