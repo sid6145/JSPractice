@@ -6,6 +6,8 @@ function Name(firstname, lastname){
 Name.prototype.fullName = function(){
     return this.first + " " + this.last;
 }
-let person1 = new Name("Siddhant", "Deshmukh")
+let person1 = new Name("Siddhant", "Deshmukh");
+
+
 
 console.log(person1.fullName());
