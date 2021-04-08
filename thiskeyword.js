@@ -11,7 +11,10 @@ let car = {
 
 car.drive();
 
-
+// for a normal function 
+// which is not a method in an object this refers 
+// to the global object which is 
+// window for browser and global for node
 function testThis(){
     console.log(this);
 }
